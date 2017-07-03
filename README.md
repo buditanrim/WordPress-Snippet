@@ -8,7 +8,9 @@ Collection of snippets and plugins that useful and make WordPress dev more effic
 ## List of plugins
 Allowing SVG upload
 - https://wordpress.org/plugins/scalable-vector-graphics-svg/ 
+
 Add custom post type
 - https://wordpress.org/plugins/custom-post-type-ui/
+
 Add custom field in your post
 - https://wordpress.org/plugins/advanced-custom-fields/
